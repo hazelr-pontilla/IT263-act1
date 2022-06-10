@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="content">
-        <h1>Activiy for Conditional Statement</h1>
+        <h1>Activiy for Conditional Statement!</h1>
     
     
         <?php
